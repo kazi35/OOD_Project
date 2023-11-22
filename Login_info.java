@@ -1,6 +1,6 @@
 public class Login_info {
-    private String user_name = "Mithun";
-    private String pass = "796";
+    private String user_name = "Nashir";
+    private String pass = "938";
 
     public String getUser_name() {
         return user_name;
