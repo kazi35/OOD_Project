@@ -1,9 +1,9 @@
 public class Devloper {
     void dev()
     {
-        System.out.println("Mithun Kumar das");
-        System.out.println("213-35-796");
-        System.out.println("b.sc in SWE At Diu");
+        System.out.println("Md Nashir Kazi");
+        System.out.println("221-35-938");
+        System.out.println("B.Sc in SWE At DIU");
     }
 
     void help()
